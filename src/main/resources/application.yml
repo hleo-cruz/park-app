@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: park-app
+garage:
+  api:
+    url: "http://localhost:3000/garage"
+spots:
+  total: 100
